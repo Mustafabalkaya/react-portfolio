@@ -33,7 +33,7 @@ Projeyi yerel makinenizde çalıştırmak için:
 
 ```bash
 # Depoyu klonla
-git clone https://github.com/kullaniciAdi/portfolio.git
+git clone https://github.com/Mustafabalkaya/react-portfolio.git
 
 # Proje klasörüne gir
 cd portfolio
